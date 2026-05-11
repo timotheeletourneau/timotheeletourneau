@@ -13,7 +13,7 @@ Mon objectif : **créer des applications efficaces et adaptées aux besoins util
 🔹 **Compétences** :
 - **Langages** : Python, PHP, HTML/CSS, C#, JavaScript
 - **Bases de données** : MySQL, SQLite, MariaDB
-- **Outils** : Git, WAMP, Tkinter
+- **Outils** : Git, WAMP
 - **Méthodologies** : Algorithmique, POO, Gestion de projet
 
 🔹 **Centres d’intérêt** :
