@@ -23,7 +23,7 @@ Skateboarding, jeux vidéo, technologies open source, automatisation
 
 ## 🚀 Mes Projets
 
-### 👟 **ShoesOne** *(En développement)*
+### 👟 **App** *(En développement)*
 - **Description** : Application web et mobile inspirée de Vinted, permettant de **vendre une seule chaussure d’une paire** (idéal pour les skaters).
 - **Technologies** : Base de données partagée, interface intuitive.
 - **Statut** : Projet personnel en alternance.
