@@ -16,9 +16,6 @@ Mon objectif : **créer des applications efficaces et adaptées aux besoins util
 - **Outils** : Git, WAMP
 - **Méthodologies** : Algorithmique, POO, Gestion de projet
 
-🔹 **Centres d’intérêt** :
-Skateboarding, jeux vidéo, technologies open source, automatisation
-
 ---
 
 ## 🚀 Mes Projets
@@ -48,10 +45,6 @@ Skateboarding, jeux vidéo, technologies open source, automatisation
 - **GitHub** : [timotheeletourneau](https://github.com/timotheeletourneau)
 - **Email** : [tletourneau78@gmail.com](mailto:tletourneau78@gmail.com)
 - **LinkedIn** : [timothée-letourneau](https://www.linkedin.com/in/timothée-letourneau-984b0b380)
-
----
-## 💡 Philosophie
-*"Moins de clics, plus d’efficacité. Le code doit simplifier la vie, pas la compliquer."*
 
 ---
 *© 2026 Timothée Letourneau | Portfolio en évolution.*
