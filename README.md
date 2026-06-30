@@ -21,7 +21,7 @@ Mon objectif : **créer des applications efficaces et adaptées aux besoins util
 ## 🚀 Mes Projets
 
 ### 👟 **App** *(En développement)*
-- **Description** : Application web et mobile inspirée de Vinted, permettant de **vendre une seule chaussure d’une paire** (idéal pour les skaters).
+- **Description** : Application web et mobile inspirée de Vinted.
 - **Technologies** : Base de données partagée, interface intuitive.
 - **Statut** : Projet personnel en alternance.
 
